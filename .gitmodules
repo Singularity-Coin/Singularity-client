@@ -1,0 +1,3 @@
+[submodule "ansible/include/Singularity-App-storage"]
+	path = ansible/include/Singularity-App-storage
+	url = https://github.com/UniStor/Singularity-App-storage.git
